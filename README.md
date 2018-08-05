@@ -18,7 +18,7 @@
 <H2>EL VIAJE DE TU VIDA...</H2>
 
 
-<P> This is a new paragraph!
+<P> Tell us your problems and we do the rest
 
 <P> <B></B>
 
