@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <HTML>
 
 <HEAD>
@@ -7,7 +8,7 @@
 
 </HEAD>
 
-<BODY BGCOLOR="FFFFFF">
+<BODY BGCOLOR="blue">
 
 <CENTER><IMG SRC="" ALIGN="BOTTOM"> </CENTER>
 
