@@ -1,5 +1,4 @@
-# tester1
-Demo
+
 <HTML>
 
 <HEAD>
@@ -10,27 +9,20 @@ Demo
 
 <BODY BGCOLOR="FFFFFF">
 
-<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+<CENTER><IMG SRC="" ALIGN="BOTTOM"> </CENTER>
 
 <HR>
 
-<a href="http://somegreatsite.com">Link Name</a>
+<H1>MEDTRIP</H1>
 
-is a link to another nifty site
+<H2>EL VIAJE DE TU VIDA...</H2>
 
-<H1>This is a Header</H1>
-
-<H2>This is a Medium Header</H2>
-
-Send me mail at <a href="mailto:support@yourcompany.com">
-
-support@yourcompany.com</a>.
 
 <P> This is a new paragraph!
 
-<P> <B>This is a new paragraph!</B>
+<P> <B></B>
 
-<BR> <B><I>This is a new sentence without a paragraph break, in bold italics.</I></B>
+<BR> <B><I> </I></B>
 
 <HR>
 
